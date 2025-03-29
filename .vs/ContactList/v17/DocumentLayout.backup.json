@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\CNPM\\contact-list-winforms\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{756B42C4-89DE-4735-A940-1C1DA1CC2AC7}|ContactList\\ContactList.csproj|d:\\cnpm\\contact-list-winforms\\contactlist\\contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{756B42C4-89DE-4735-A940-1C1DA1CC2AC7}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{756B42C4-89DE-4735-A940-1C1DA1CC2AC7}|ContactList\\ContactList.csproj|d:\\cnpm\\contact-list-winforms\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{756B42C4-89DE-4735-A940-1C1DA1CC2AC7}|ContactList\\ContactList.csproj|solutionrelative:contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,11 +31,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\CNPM\\contact-list-winforms\\ContactList\\ContactList\\Form1.cs",
-              "RelativeDocumentMoniker": "ContactList\\Form1.cs",
-              "ToolTip": "D:\\CNPM\\contact-list-winforms\\ContactList\\ContactList\\Form1.cs [Design]",
-              "RelativeToolTip": "ContactList\\Form1.cs [Design]",
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\CNPM\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs",
+              "RelativeDocumentMoniker": "ContactList\\MainForm.cs",
+              "ToolTip": "D:\\CNPM\\contact-list-winforms\\ContactList\\ContactList\\MainForm.cs [Design]",
+              "RelativeToolTip": "ContactList\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-29T07:39:19.749Z",
               "EditorCaption": " [Design]"
